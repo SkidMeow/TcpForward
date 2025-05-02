@@ -3,7 +3,7 @@
 
 <!-- Sorry for the rubbish HTML and md -->
 <div align="center">
-  <img src="https://github.com/SkidMeow/TcpForward/blob/88697b93633d7ef117852995c07df06142763138/image.png" width=100 height=100>
+  <img src="https://github.com/SkidMeow/TcpForward/blob/88697b93633d7ef117852995c07df06142763138/image.png">
   <h1>
     TcpForward
   </h1>
