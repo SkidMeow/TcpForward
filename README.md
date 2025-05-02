@@ -3,9 +3,13 @@
   <h1>
     TcpForward
   </h1>
-  <span>A easy-to-use and lightweight Java app for forwarding TCP connections</span>
+  <span>An easy-to-use and lightweight Java app for forwarding TCP connections</span>
 </div>
-
+---
+## Introducing
+An easy-to-use and lightweight Java app for forwarding TCP connections: forward all TCP connections from the port that listening.
+The start.bat is an example for normal users.
+You may use that on a server.
 ---
 ## How-to-use, step by steps
 Using TcpForward is very easy. Step by steps:
