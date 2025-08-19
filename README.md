@@ -50,7 +50,8 @@ That's so easy and you don't need the suggestions ;)
 ME, the owner of the project
 
 ## License
-Mulan
+DEYW Licence(Do everything you want)
+
 
 
 
